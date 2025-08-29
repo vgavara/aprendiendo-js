@@ -1,4 +1,4 @@
-# aprendiendo-js. Sintáxis básica. Ejercicio 1
+# aprendiendo-js. Sintáxis básica. Ejercicio 10
 ## Enunciado
 Imagina que un cine quiere calcular el precio de una entrada según la edad del cliente y si tiene descuento de estudiante.
 

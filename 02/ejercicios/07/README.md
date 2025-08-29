@@ -1,4 +1,4 @@
-# aprendiendo-js. Sintáxis básica. Ejercicio 1
+# aprendiendo-js. Sintáxis básica. Ejercicio 7
 ## Enunciado
 Crea una constante `edad = 16`.
 Usa un `if` para mostrar `"Eres mayor de edad"` si la edad es 18 o más, y `"Eres menor de edad"` en caso contrario.

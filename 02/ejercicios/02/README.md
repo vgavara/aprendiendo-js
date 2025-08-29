@@ -1,4 +1,4 @@
-# aprendiendo-js. Sintáxis básica. Ejercicio 1
+# aprendiendo-js. Sintáxis básica. Ejercicio 2
 ## Enunciado
 Crea tres variables:
 - una booleana llamada esMayorDeEdad con valor true,

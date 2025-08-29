@@ -1,4 +1,4 @@
-# aprendiendo-js. Sintáxis básica. Ejercicio 1
+# aprendiendo-js. Sintáxis básica. Ejercicio 6
 ## Enunciado
 Crea una variable `a = 10` y una constante `b = "10"`.
 Muestra en consola el resultado de las expresiones:
